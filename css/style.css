@@ -1,0 +1,63 @@
+/** common css start**/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+/* common css end*/
+/*header start**/
+header{
+	padding: 10px 0;
+}
+.wrapper {
+	margin: 0 auto;
+	width: 90%;
+	overflow: hidden;
+}
+.logo {
+	width: 10%;	
+}
+.logo img{
+	width: 100%;
+	float: left;	
+}
+
+.menu {
+	width: 40%;
+	float: right;
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+.menu ul li a{
+	text-decoration: none;
+	
+	padding: 0px 20px;
+	display: inline block;
+}
+.menu ul li:last-child a{
+	padding: right 0;
+}
+/*header end*/
+/*banner start*/
+.banner {}
+.wrapper2 {
+	width: 60%;
+	margin: 0 auto;
+}
+.b_content{
+	text-align: center;
+}
+.b_head1{
+	font-size: 65px;
+	color: navy blue;
+}
+.b_span{color: blue;
+}
+.b_text
+.b_img {}
+/*banner end*/
